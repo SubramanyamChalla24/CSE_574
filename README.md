@@ -4,6 +4,5 @@
 # Prompt generation training (Jiwoong Jeong):
 Prompt generator: jeong-jasonji/CSE574_prompter finetuned for our purposes from the baseline model: Gustavosta/MagicPrompt-Stable-Diffusion
 
-# Report Link
-https://www.overleaf.com/project/656168747ac297eac175674b
-https://docs.google.com/document/d/1z_XU_eSLukTupEkPc0cPsZIlzSUyc5VoOaH3XHSzqrA/edit?usp=sharing
+# Poster Link
+https://docs.google.com/presentation/d/1JvmdslxWAwEQ__H52lhieGlnROkQLRJWBbf77-U-b_8/edit?usp=sharing
